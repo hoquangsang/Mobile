@@ -1,0 +1,286 @@
+[
+    {
+        "merged": "com.example.project_mobile.app-debug-33:/drawable_ic_username.xml.flat",
+        "source": "com.example.project_mobile.app-main-35:/drawable/ic_username.xml"
+    },
+    {
+        "merged": "com.example.project_mobile.app-debug-33:/drawable_ear.png.flat",
+        "source": "com.example.project_mobile.app-main-35:/drawable/ear.png"
+    },
+    {
+        "merged": "com.example.project_mobile.app-debug-33:/drawable_baseline_bookmark_border_24.xml.flat",
+        "source": "com.example.project_mobile.app-main-35:/drawable/baseline_bookmark_border_24.xml"
+    },
+    {
+        "merged": "com.example.project_mobile.app-debug-33:/layout_item_health_service.xml.flat",
+        "source": "com.example.project_mobile.app-main-35:/layout/item_health_service.xml"
+    },
+    {
+        "merged": "com.example.project_mobile.app-debug-33:/drawable_baseline_search_24.xml.flat",
+        "source": "com.example.project_mobile.app-main-35:/drawable/baseline_search_24.xml"
+    },
+    {
+        "merged": "com.example.project_mobile.app-debug-33:/drawable_ic_profile.xml.flat",
+        "source": "com.example.project_mobile.app-main-35:/drawable/ic_profile.xml"
+    },
+    {
+        "merged": "com.example.project_mobile.app-debug-33:/drawable_stomach.png.flat",
+        "source": "com.example.project_mobile.app-main-35:/drawable/stomach.png"
+    },
+    {
+        "merged": "com.example.project_mobile.app-debug-33:/drawable_circle.xml.flat",
+        "source": "com.example.project_mobile.app-main-35:/drawable/circle.xml"
+    },
+    {
+        "merged": "com.example.project_mobile.app-debug-33:/drawable_ic_heart.xml.flat",
+        "source": "com.example.project_mobile.app-main-35:/drawable/ic_heart.xml"
+    },
+    {
+        "merged": "com.example.project_mobile.app-debug-33:/drawable_ic_bell.xml.flat",
+        "source": "com.example.project_mobile.app-main-35:/drawable/ic_bell.xml"
+    },
+    {
+        "merged": "com.example.project_mobile.app-debug-33:/drawable_baseline_location_pin_24.xml.flat",
+        "source": "com.example.project_mobile.app-main-35:/drawable/baseline_location_pin_24.xml"
+    },
+    {
+        "merged": "com.example.project_mobile.app-debug-33:/drawable_tooth.png.flat",
+        "source": "com.example.project_mobile.app-main-35:/drawable/tooth.png"
+    },
+    {
+        "merged": "com.example.project_mobile.app-debug-33:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.project_mobile.app-main-35:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.project_mobile.app-debug-33:/drawable_dialogbg.xml.flat",
+        "source": "com.example.project_mobile.app-main-35:/drawable/dialogbg.xml"
+    },
+    {
+        "merged": "com.example.project_mobile.app-debug-33:/drawable_eye.png.flat",
+        "source": "com.example.project_mobile.app-main-35:/drawable/eye.png"
+    },
+    {
+        "merged": "com.example.project_mobile.app-debug-33:/drawable_rounded_corners.xml.flat",
+        "source": "com.example.project_mobile.app-main-35:/drawable/rounded_corners.xml"
+    },
+    {
+        "merged": "com.example.project_mobile.app-debug-33:/layout_activity_sign_in.xml.flat",
+        "source": "com.example.project_mobile.app-main-35:/layout/activity_sign_in.xml"
+    },
+    {
+        "merged": "com.example.project_mobile.app-debug-33:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.project_mobile.app-main-35:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.project_mobile.app-debug-33:/drawable_ic_filter.xml.flat",
+        "source": "com.example.project_mobile.app-main-35:/drawable/ic_filter.xml"
+    },
+    {
+        "merged": "com.example.project_mobile.app-debug-33:/drawable_baseline_clear_24.xml.flat",
+        "source": "com.example.project_mobile.app-main-35:/drawable/baseline_clear_24.xml"
+    },
+    {
+        "merged": "com.example.project_mobile.app-debug-33:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.project_mobile.app-main-35:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.project_mobile.app-debug-33:/drawable_blog_card_item.xml.flat",
+        "source": "com.example.project_mobile.app-main-35:/drawable/blog_card_item.xml"
+    },
+    {
+        "merged": "com.example.project_mobile.app-debug-33:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.project_mobile.app-main-35:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.project_mobile.app-debug-33:/layout_fragment_homepage.xml.flat",
+        "source": "com.example.project_mobile.app-main-35:/layout/fragment_homepage.xml"
+    },
+    {
+        "merged": "com.example.project_mobile.app-debug-33:/drawable_ic_google.xml.flat",
+        "source": "com.example.project_mobile.app-main-35:/drawable/ic_google.xml"
+    },
+    {
+        "merged": "com.example.project_mobile.app-debug-33:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.project_mobile.app-main-35:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.project_mobile.app-debug-33:/drawable_red_blood_cells.png.flat",
+        "source": "com.example.project_mobile.app-main-35:/drawable/red_blood_cells.png"
+    },
+    {
+        "merged": "com.example.project_mobile.app-debug-33:/layout_activity_sign_up.xml.flat",
+        "source": "com.example.project_mobile.app-main-35:/layout/activity_sign_up.xml"
+    },
+    {
+        "merged": "com.example.project_mobile.app-debug-33:/drawable_ic_password.xml.flat",
+        "source": "com.example.project_mobile.app-main-35:/drawable/ic_password.xml"
+    },
+    {
+        "merged": "com.example.project_mobile.app-debug-33:/layout_activity_main.xml.flat",
+        "source": "com.example.project_mobile.app-main-35:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.project_mobile.app-debug-33:/drawable_red_dot.xml.flat",
+        "source": "com.example.project_mobile.app-main-35:/drawable/red_dot.xml"
+    },
+    {
+        "merged": "com.example.project_mobile.app-debug-33:/anim_slide_in.xml.flat",
+        "source": "com.example.project_mobile.app-main-35:/anim/slide_in.xml"
+    },
+    {
+        "merged": "com.example.project_mobile.app-debug-33:/drawable_edittext_border.xml.flat",
+        "source": "com.example.project_mobile.app-main-35:/drawable/edittext_border.xml"
+    },
+    {
+        "merged": "com.example.project_mobile.app-debug-33:/drawable_ic_facebook.xml.flat",
+        "source": "com.example.project_mobile.app-main-35:/drawable/ic_facebook.xml"
+    },
+    {
+        "merged": "com.example.project_mobile.app-debug-33:/drawable_ic_appointment.xml.flat",
+        "source": "com.example.project_mobile.app-main-35:/drawable/ic_appointment.xml"
+    },
+    {
+        "merged": "com.example.project_mobile.app-debug-33:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.project_mobile.app-main-35:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.project_mobile.app-debug-33:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.project_mobile.app-main-35:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.project_mobile.app-debug-33:/layout_user_menu_item.xml.flat",
+        "source": "com.example.project_mobile.app-main-35:/layout/user_menu_item.xml"
+    },
+    {
+        "merged": "com.example.project_mobile.app-debug-33:/layout_user_popup_menu.xml.flat",
+        "source": "com.example.project_mobile.app-main-35:/layout/user_popup_menu.xml"
+    },
+    {
+        "merged": "com.example.project_mobile.app-debug-33:/layout_health_services_bottom_sheet.xml.flat",
+        "source": "com.example.project_mobile.app-main-35:/layout/health_services_bottom_sheet.xml"
+    },
+    {
+        "merged": "com.example.project_mobile.app-debug-33:/drawable_rounded_button.xml.flat",
+        "source": "com.example.project_mobile.app-main-35:/drawable/rounded_button.xml"
+    },
+    {
+        "merged": "com.example.project_mobile.app-debug-33:/drawable_heath_care.png.flat",
+        "source": "com.example.project_mobile.app-main-35:/drawable/heath_care.png"
+    },
+    {
+        "merged": "com.example.project_mobile.app-debug-33:/layout_clinic_card_item.xml.flat",
+        "source": "com.example.project_mobile.app-main-35:/layout/clinic_card_item.xml"
+    },
+    {
+        "merged": "com.example.project_mobile.app-debug-33:/drawable_girlface.png.flat",
+        "source": "com.example.project_mobile.app-main-35:/drawable/girlface.png"
+    },
+    {
+        "merged": "com.example.project_mobile.app-debug-33:/mipmap-anydpi_ic_launcher_round.xml.flat",
+        "source": "com.example.project_mobile.app-main-35:/mipmap-anydpi/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.project_mobile.app-debug-33:/layout_fragment_blog.xml.flat",
+        "source": "com.example.project_mobile.app-main-35:/layout/fragment_blog.xml"
+    },
+    {
+        "merged": "com.example.project_mobile.app-debug-33:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.project_mobile.app-main-35:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.project_mobile.app-debug-33:/drawable_ic_clock.xml.flat",
+        "source": "com.example.project_mobile.app-main-35:/drawable/ic_clock.xml"
+    },
+    {
+        "merged": "com.example.project_mobile.app-debug-33:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.project_mobile.app-main-35:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.project_mobile.app-debug-33:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.project_mobile.app-main-35:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.project_mobile.app-debug-33:/mipmap-anydpi_ic_launcher.xml.flat",
+        "source": "com.example.project_mobile.app-main-35:/mipmap-anydpi/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.project_mobile.app-debug-33:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.project_mobile.app-main-35:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.project_mobile.app-debug-33:/layout_search_bar.xml.flat",
+        "source": "com.example.project_mobile.app-main-35:/layout/search_bar.xml"
+    },
+    {
+        "merged": "com.example.project_mobile.app-debug-33:/drawable_intestine.png.flat",
+        "source": "com.example.project_mobile.app-main-35:/drawable/intestine.png"
+    },
+    {
+        "merged": "com.example.project_mobile.app-debug-33:/layout_doctor_card_item.xml.flat",
+        "source": "com.example.project_mobile.app-main-35:/layout/doctor_card_item.xml"
+    },
+    {
+        "merged": "com.example.project_mobile.app-debug-33:/drawable_heart.png.flat",
+        "source": "com.example.project_mobile.app-main-35:/drawable/heart.png"
+    },
+    {
+        "merged": "com.example.project_mobile.app-debug-33:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.project_mobile.app-main-35:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.project_mobile.app-debug-33:/drawable_ic_compose.xml.flat",
+        "source": "com.example.project_mobile.app-main-35:/drawable/ic_compose.xml"
+    },
+    {
+        "merged": "com.example.project_mobile.app-debug-33:/menu_bottom_menu.xml.flat",
+        "source": "com.example.project_mobile.app-main-35:/menu/bottom_menu.xml"
+    },
+    {
+        "merged": "com.example.project_mobile.app-debug-33:/drawable_ic_home.xml.flat",
+        "source": "com.example.project_mobile.app-main-35:/drawable/ic_home.xml"
+    },
+    {
+        "merged": "com.example.project_mobile.app-debug-33:/anim_slide_out.xml.flat",
+        "source": "com.example.project_mobile.app-main-35:/anim/slide_out.xml"
+    },
+    {
+        "merged": "com.example.project_mobile.app-debug-33:/drawable_ic_rounded_minus.xml.flat",
+        "source": "com.example.project_mobile.app-main-35:/drawable/ic_rounded_minus.xml"
+    },
+    {
+        "merged": "com.example.project_mobile.app-debug-33:/drawable_ic_favourite.xml.flat",
+        "source": "com.example.project_mobile.app-main-35:/drawable/ic_favourite.xml"
+    },
+    {
+        "merged": "com.example.project_mobile.app-debug-33:/color_bottom_nav_color.xml.flat",
+        "source": "com.example.project_mobile.app-main-35:/color/bottom_nav_color.xml"
+    },
+    {
+        "merged": "com.example.project_mobile.app-debug-33:/drawable_ic_mail.xml.flat",
+        "source": "com.example.project_mobile.app-main-35:/drawable/ic_mail.xml"
+    },
+    {
+        "merged": "com.example.project_mobile.app-debug-33:/xml_backup_rules.xml.flat",
+        "source": "com.example.project_mobile.app-main-35:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.project_mobile.app-debug-33:/drawable_recyclerview_divider.xml.flat",
+        "source": "com.example.project_mobile.app-main-35:/drawable/recyclerview_divider.xml"
+    },
+    {
+        "merged": "com.example.project_mobile.app-debug-33:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.project_mobile.app-main-35:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.project_mobile.app-debug-33:/drawable_lung.png.flat",
+        "source": "com.example.project_mobile.app-main-35:/drawable/lung.png"
+    },
+    {
+        "merged": "com.example.project_mobile.app-debug-33:/drawable_ic_blog.xml.flat",
+        "source": "com.example.project_mobile.app-main-35:/drawable/ic_blog.xml"
+    },
+    {
+        "merged": "com.example.project_mobile.app-debug-33:/layout_blog_card_item.xml.flat",
+        "source": "com.example.project_mobile.app-main-35:/layout/blog_card_item.xml"
+    }
+]

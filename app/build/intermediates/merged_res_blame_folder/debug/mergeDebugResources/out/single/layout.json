@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "com.example.project_mobile.app-mergeDebugResources-32:/layout/fragment_blog.xml",
+        "source": "com.example.project_mobile.app-main-35:/layout/fragment_blog.xml"
+    },
+    {
+        "merged": "com.example.project_mobile.app-mergeDebugResources-32:/layout/search_bar.xml",
+        "source": "com.example.project_mobile.app-main-35:/layout/search_bar.xml"
+    },
+    {
+        "merged": "com.example.project_mobile.app-mergeDebugResources-32:/layout/health_services_bottom_sheet.xml",
+        "source": "com.example.project_mobile.app-main-35:/layout/health_services_bottom_sheet.xml"
+    },
+    {
+        "merged": "com.example.project_mobile.app-mergeDebugResources-32:/layout/activity_sign_up.xml",
+        "source": "com.example.project_mobile.app-main-35:/layout/activity_sign_up.xml"
+    },
+    {
+        "merged": "com.example.project_mobile.app-mergeDebugResources-32:/layout/doctor_card_item.xml",
+        "source": "com.example.project_mobile.app-main-35:/layout/doctor_card_item.xml"
+    },
+    {
+        "merged": "com.example.project_mobile.app-mergeDebugResources-32:/layout/activity_main.xml",
+        "source": "com.example.project_mobile.app-main-35:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.project_mobile.app-mergeDebugResources-32:/layout/user_popup_menu.xml",
+        "source": "com.example.project_mobile.app-main-35:/layout/user_popup_menu.xml"
+    },
+    {
+        "merged": "com.example.project_mobile.app-mergeDebugResources-32:/layout/item_health_service.xml",
+        "source": "com.example.project_mobile.app-main-35:/layout/item_health_service.xml"
+    },
+    {
+        "merged": "com.example.project_mobile.app-mergeDebugResources-32:/layout/user_menu_item.xml",
+        "source": "com.example.project_mobile.app-main-35:/layout/user_menu_item.xml"
+    },
+    {
+        "merged": "com.example.project_mobile.app-mergeDebugResources-32:/layout/activity_sign_in.xml",
+        "source": "com.example.project_mobile.app-main-35:/layout/activity_sign_in.xml"
+    },
+    {
+        "merged": "com.example.project_mobile.app-mergeDebugResources-32:/layout/fragment_homepage.xml",
+        "source": "com.example.project_mobile.app-main-35:/layout/fragment_homepage.xml"
+    },
+    {
+        "merged": "com.example.project_mobile.app-mergeDebugResources-32:/layout/clinic_card_item.xml",
+        "source": "com.example.project_mobile.app-main-35:/layout/clinic_card_item.xml"
+    },
+    {
+        "merged": "com.example.project_mobile.app-mergeDebugResources-32:/layout/blog_card_item.xml",
+        "source": "com.example.project_mobile.app-main-35:/layout/blog_card_item.xml"
+    }
+]
